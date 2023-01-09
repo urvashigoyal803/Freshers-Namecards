@@ -1,10 +1,10 @@
-# Cops Contributors NameCards
+# COPS Freshers NameCards
 
 This repository contains your second challenge of this week. To fully accomplish
 this challenge you should have get successfully merged your pull request about
 including your namecard in it.
 
-The Web Page is live at - [COPS-NameCards-CSOC22](http://csoc-week0-namecards.vercel.app/)
+The Web Page is live at - [Freshers-NameCards](http://csoc-week0-namecards.vercel.app/)
 
 ## Steps to Contribute
 
@@ -20,4 +20,4 @@ The Web Page is live at - [COPS-NameCards-CSOC22](http://csoc-week0-namecards.ve
 
 - Include your image in the images directory (you'll find this is the public folder) of the cloned repository (Image size should not exceed 1 MB)
 - Inside the utils folder, you'll find a file named `contributers.js` , which contains a CONTRIBUTERS array consisting of 2 sample templates. Copy the first template and add it to the end of the array after filling in your details (Don't forget to link your github profile).
-- You DO NOT have to change any of the pre-existing files or code, you just need to add your details at the end of the array 
+- You DO NOT have to change any of the pre-existing files or code, you just need to add your details at the end of the array.

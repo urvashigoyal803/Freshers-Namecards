@@ -9,7 +9,7 @@ export default function Home() {
                     className="item-shadow mx-3 p-5 text-white"
                     style={{ background: "linear-gradient(to right, #0c253a, #0c363a)" }}
                 >
-                    <h3>Cops Contributors NameCards</h3>
+                    <h3>COPS Freshers NameCards</h3>
                     To fully accomplish this challenge you must successfully get your pull request merged.
                 </div>
                 <div className="row no-gutters mt-2">
