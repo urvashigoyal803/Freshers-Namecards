@@ -10,7 +10,7 @@ export default function Home() {
                     style={{ background: "linear-gradient(to right, #0c253a, #0c363a)" }}
                 >
                     <h3>COPS Freshers NameCards</h3>
-                    To fully accomplish this challenge you must successfully get your pull request merged.
+                    Introduce yourself to all developer family here at IIT BHU.
                 </div>
                 <div className="row no-gutters mt-2">
                     {contributors.map((item, index) => (

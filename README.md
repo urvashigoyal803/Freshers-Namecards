@@ -1,10 +1,8 @@
 # COPS Freshers NameCards
 
-This repository contains your second challenge of this week. To fully accomplish
-this challenge you should have get successfully merged your pull request about
-including your namecard in it.
+A website to introduce all the freshers here at IIT BHU to COPS and Git!
 
-The Web Page is live at - [Freshers-NameCards](http://csoc-week0-namecards.vercel.app/)
+The Web Page is live at - [Freshers-NameCards](https://cops-freshers.netlify.app/)
 
 ## Steps to Contribute
 

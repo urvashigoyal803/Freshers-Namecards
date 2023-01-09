@@ -8,7 +8,7 @@ const HEADER_ITEMS = [
     {
         id: 1,
         title: "Submit A Card",
-        url: "https://github.com/COPS-CSOC-2022/CSOC22-Week0-namecards",
+        url: "https://github.com/EshaanAgg/Freshers-Namecards",
     },
     {
         id: 2,
